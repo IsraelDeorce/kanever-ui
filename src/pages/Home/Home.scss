@@ -1,7 +1,8 @@
 @import '/src/index.scss';
 
 .home {
-  background: #FFD029;
+  background: rgb(242,135,68);
+  background: linear-gradient(151deg, rgba(242,135,68,1) 0%, rgba(238,199,31,1) 100%);
   height: 1080px;
   flex-direction: column;
   padding-top: 10px;
